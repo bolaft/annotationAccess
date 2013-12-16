@@ -1,1 +1,0 @@
-classpath*:annotationAccess/types/*.xml
